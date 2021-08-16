@@ -1,6 +1,5 @@
 # Perpustakaan-Online
-> Baca Buku ? 
-> Digital Ada !
+> Tempat Tidak Membatasi Membaca Buku
 
 Perpustakaan online ini merupakan perpustakaan yang akan menjadi wadah bagi saya sendiri untuk menyimpan karya-karya saya dan dapat diakses oleh publik secara online. Harapan saya nantinya perpustakaan ini dapat membuat saya semakin semangat untuk membuat keterampilan menulis saya semakin baik dan dapat berguna bagi pembaca. Dalam website ini, terdapat beberapa hal yang menjadi fokus, yaitu petunjuk instalansi, petunjuk konfigurasi, penjelasan struktur atau hieraki, informasi hak cipta dan perizinan menggunakan perangkat lunak, dan ChangeLog SourceCode.
 <hr>
