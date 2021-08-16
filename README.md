@@ -1,4 +1,4 @@
-<img src="BukuDigital.jpg" align="right" />
+<img src="BukuDigital.jpg" align="right"  />
 
 # Perpustakaan-Online
 
