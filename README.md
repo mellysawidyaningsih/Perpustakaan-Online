@@ -1,5 +1,3 @@
-<img src="BukuDigital.jpg" align="right"  />
-
 # Perpustakaan-Online
 
 ## Perpustakaan Online MELLYSA
